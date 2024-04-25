@@ -16,12 +16,12 @@ body {
   height: 100vh;
 }
 .banner {
-  width: 360px;
+  width: 335px;
   height: 439px;
   position: relative;
 
   background-color: transparent;
-  box-shadow: 0 1px 3px 0 var(--second-color);
+  box-shadow: 0 1px 7px 0 var(--second-color);
   border-radius: 8px;
   /* backdrop-filter: blur(4px); */
 }
